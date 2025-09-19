@@ -44,9 +44,6 @@ This project is designed as a **portfolio showcase** for IT Audit, Risk & Compli
 ├── README.md # Project documentation
 └── yarn.lock # Dependency lock file
 
-yaml
-Copy code
-
 ---
 
 ## 🎯 Business Value
